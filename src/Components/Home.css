@@ -1,0 +1,17 @@
+.tittle{
+    color: white;
+height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   margin: 0px;
+   
+
+   
+}
+.tittle h1{
+    font-size: 60px;
+}
+.tittle p{
+    font-size: 20px;
+}

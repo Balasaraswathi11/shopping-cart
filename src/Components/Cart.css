@@ -1,0 +1,16 @@
+.cartlist{
+    display: flex;
+    margin-bottom: 10px;
+    border: black 2px solid;
+    
+}
+.productdetails{
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.imageofcart{
+    width: 100px;
+    height: 100px;
+}
